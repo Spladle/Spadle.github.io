@@ -1,4 +1,4 @@
 # Spadle.github.io
-Webpage
+Webpage. Under Development
 
-![git](/assets/images/branch_merge.png.png)
+![git](/assets/images/branch_merge.png)
