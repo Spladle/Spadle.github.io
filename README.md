@@ -1,5 +1,7 @@
 # Spadle.github.io
 This is my webpage. I an in development
+
+![branch merge diagram](assets/branch_merge.png)   
 ```mermaid
 
 ---
