@@ -1,5 +1,4 @@
 # Spadle.github.io
 Webpage
 
-![branch merge diagram](/assets/images/branch_merge.png
-
+![git](/assets/images/branch_merge.png.png)
