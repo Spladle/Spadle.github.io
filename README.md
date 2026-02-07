@@ -1,22 +1,5 @@
 # Spadle.github.io
-This is my webpage. I an in development
+Webpage
 
-![branch merge diagram](assets/branch_merge.png)   
-```mermaid
+![branch merge diagram](/assets/images/branch_merge.png
 
----
-title: Example Git diagram
----
-gitGraph
-   commit
-   commit
-   branch develop
-   checkout develop
-   commit
-   commit
-   checkout main
-   merge develop
-   commit
-   commit
-
-```
